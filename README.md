@@ -1,8 +1,8 @@
 <!-- ===== HERO ===== -->
-<img align="right" width="260" src="./assets/pinkypinky.gif" alt="funny gif">
+<img align="right" width="340" src="./assets/pinkypinky.gif" alt="funny gif">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=C9C27A&center=true&vCenter=true&multiline=true&repeat=false&width=560&height=70&lines=Hey+there%2C+I'm+Lyosha;iOS+developer+%26+CS+student+%E2%9C%A6" alt="Hey there, I'm Lyosha — iOS developer & CS student">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=C9C27A&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=70&lines=Hey+there%2C+I'm+Lyosha;iOS+developer+%26+CS+student+%E2%9C%A6" alt="Hey there, I'm Lyosha — iOS developer & CS student">
 </p>
 
 ```text
@@ -23,16 +23,16 @@
 
 <!-- ===== NEOFETCH ===== -->
 ```text
-                      (  )   (   )  )
-                       ) (   )  (  (
-                       ( )  (    ) )
-                    ___________________
-                   |                   |___
-                   |                   |    \
-                   |                   |    |
-                   |                   |___/
-                   |___________________|
-                    \_________________/
+   (  )   (   )  )
+    ) (   )  (  (               te1pe@github
+    ( )  (    ) )               ──────────────────────────────────────
+ ___________________            OS         macOS · Debian
+|                   |___        Editor     Xcode · Neovim
+|                   |    \      Languages  Swift · C · C++ · Go · Java
+|                   |    |      Currently  SwiftUI, eBPF, chaos engineering
+|                   |___/       Learning   Go concurrency, Spring Boot
+|___________________|           Coffee     ████████████████████  100%
+ \_________________/
 ```
 
 <!-- ===== STACK ===== -->
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/%2F%2F_tools_%26_workflow-21262d?style=for-the-badge" alt="// tools & workflow">
 </p>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,jira,xcode,idea,pycharm,vscode,vim,postman,swagger,figma&theme=dark&perline=9" alt="Git, GitHub, GitLab, Jira, Xcode, IntelliJ IDEA, PyCharm, VS Code, Vim, Postman, Swagger, Figma">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,jira,xcode,idea,pycharm,vscode,vim,postman,swagger,figma&theme=dark&perline=6" alt="Git, GitHub, GitLab, Jira, Xcode, IntelliJ IDEA, PyCharm, VS Code, Vim, Postman, Swagger, Figma">
 </p>
 
 <!-- ===== PROJECTS ===== -->
