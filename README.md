@@ -2,15 +2,13 @@
 <img align="right" width="340" src="./assets/pinkypinky.gif" alt="funny gif">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=C9C27A&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=70&lines=Hey+there%2C+I'm+Lyosha;iOS+developer+%26+CS+student+%E2%9C%A6" alt="Hey there, I'm Lyosha — iOS developer & CS student">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=C9C27A&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=70&lines=Hey%2C+I'm+Alex;developer+and+NSU+student" alt="Hey, I'm Alex — developer and NSU student">
 </p>
 
 ```text
-   I build iOS features in Swift & SwiftUI at SHIFT LAB.
-  Studying Software Engineering at NSU FIT, class of '28.
-      Systems background: C, POSIX, networking, eBPF.
-    Writing my thesis on chaos engineering for iOS apps.
-       Also building a startup — and a second brain.
+                In active searching work
+ Studying Software Engineering at NSU FIT, class of '28.
+       Background: C, Java, C++, GO, Python, Swift
 ```
 
 <p align="center">
@@ -23,16 +21,46 @@
 
 <!-- ===== NEOFETCH ===== -->
 ```text
-   (  )   (   )  )
-    ) (   )  (  (               te1pe@github
-    ( )  (    ) )               ──────────────────────────────────────
- ___________________            OS         macOS · Debian
-|                   |___        Editor     Xcode · Neovim
-|                   |    \      Languages  Swift · C · C++ · Go · Java
-|                   |    |      Currently  SwiftUI, eBPF, chaos engineering
-|                   |___/       Learning   Go concurrency, Spring Boot
-|___________________|           Coffee     ████████████████████  100%
- \_________________/
+                       1177557711
+                  1588800455529088801
+               1280511            1798071
+             70821                    10841
+           7887                         1980
+         1685                             1087
+        7881                                5801
+       580                                   1081
+      482                                     1881
+     085 11177711                     11177111 18811
+  115888888888888888971  175511 115088888888888888011
+1088888895711111759888888711811088880471111117208888885
+188807               1488  0  18871              198882
+188881                18044244880                 18885
+  080        1751     1887    485     1771        1887
+ 1880       1888881   1887    987    588884       1884
+ 3888       8888885   1887    985   10888887      18881      te1pe@github
+ 88881      8888885   1881    580   10888887      78881      ─────────────────────────────────────
+ 88881      1088861   7801    1881   788885       48887      OS         macOS
+1888881       111    1084     1885     111       188885      Editor     Visual Studio
+1881882              480       1887             1089485      Languages  Go Java Python
+188118891          18801        28841          1886 685      Currently
+ 881 108807111175488041          108802711117508851 087      Learning   Go
+ 087   18888888888821              10888888808861   081      Work       ████████████████████  100%
+ 784      1177711                     11177711     1881
+ 1881                                              585
+  485           080090944444444490000004          1881
+  180           488888871177771118888882          786
+   285          10888887        18888801         1881
+   1881          1088882        7888801          485
+    1801          148880        488851          584
+     780            128845717754807            7801
+      780              117244571              7801
+       1881                                  204
+        1887                               1087
+        1 5801                           15801
+           14891                       17807
+             128051                  16881
+                19884111        11508051
+                   172088000008889511
 ```
 
 <!-- ===== STACK ===== -->
