@@ -76,6 +76,33 @@ Work       ████████████  100%
 My projects
 ---
 
+- ## [Cloute](https://github.com/te1pe/cloute)
+  Tags: *#Go #TypeScript #CRDT #WebSocket*
+
+  Self-hosted collaborative text editor: several people edit one document in real time and see each other's cursors. Concurrent and offline edits merge through an RGA CRDT written by hand in Go and TypeScript and checked against shared test vectors. Roles and share links, comments anchored to characters, version rollback that keeps concurrent edits, Prometheus metrics, one static binary with the frontend embedded.
+
+  [Docs](https://github.com/te1pe/cloute#readme) / [Документация](https://github.com/te1pe/cloute/blob/main/README.ru.md)
+
+---
+
+- ## [foresight](https://github.com/te1pe/foresight)
+  Tags: *#Go #Kafka #ClickHouse #monitoring*
+
+  Monitoring that forecasts resource exhaustion before an outage: "the disk will be full in 3 h 20 min". Scraping with a custom Prometheus parser, Redpanda with at-least-once delivery and duplicate-free ClickHouse storage, EWMA z-score and least-squares detectors, incidents with a transactional outbox and Telegram alerts. Load-tested, with the numbers in the README.
+
+  [Docs](https://github.com/te1pe/foresight#readme) / [Документация](https://github.com/te1pe/foresight/blob/main/README.ru.md)
+
+---
+
+- ## [nsu-rag-llm](https://github.com/te1pe/nsu-rag-llm)
+  Tags: *#Python #RAG #LLM #Qdrant*
+
+  RAG question answering over NSU FIT course materials that cites the page behind every claim. Parsing and OCR of nearly 60k pages, hybrid retrieval (dense + BM25, RRF, cross-encoder rerank), an agent with routing and query rewriting, an LLM judge calibrated against manual labels. Runs locally on Ollama; 32 decision records.
+
+  [Docs](https://github.com/te1pe/nsu-rag-llm#readme) / [Документация](https://github.com/te1pe/nsu-rag-llm#readme)
+
+---
+
 - ## [Traty](https://github.com/te1pe/traty)
   Tags: *#Go #SQLite #self-hosted*
 
