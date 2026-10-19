@@ -73,86 +73,86 @@ Work       ████████████  100%
 </p>
 
 <!-- ===== PROJECTS ===== -->
-My projects
+Мои проекты
 ---
 
 - ## [Cloute](https://github.com/te1pe/cloute)
-  Tags: *#Go #TypeScript #CRDT #WebSocket*
+  Теги: *#Go #TypeScript #CRDT #WebSocket*
 
-  Self-hosted collaborative text editor: several people edit one document in real time and see each other's cursors. Concurrent and offline edits merge through an RGA CRDT written by hand in Go and TypeScript and checked against shared test vectors. Roles and share links, comments anchored to characters, version rollback that keeps concurrent edits, Prometheus metrics, one static binary with the frontend embedded.
+  Совместный текстовый редактор, который разворачивается на своём сервере: несколько человек правят один документ в реальном времени и видят курсоры друг друга. Одновременные и офлайн-правки сливаются через CRDT (RGA), написанный вручную на Go и TypeScript и сверенный по общим тестовым векторам. Роли и ссылки доступа, комментарии с привязкой к символам, откат версий без потери одновременных правок, метрики Prometheus, один статический бинарник со встроенным фронтендом.
 
-  [Docs](https://github.com/te1pe/cloute#readme) / [Документация](https://github.com/te1pe/cloute/blob/main/README.ru.md)
+  [Документация](https://github.com/te1pe/cloute#readme)
 
 ---
 
 - ## [foresight](https://github.com/te1pe/foresight)
-  Tags: *#Go #Kafka #ClickHouse #monitoring*
+  Теги: *#Go #Kafka #ClickHouse #мониторинг*
 
-  Monitoring that forecasts resource exhaustion before an outage: "the disk will be full in 3 h 20 min". Scraping with a custom Prometheus parser, Redpanda with at-least-once delivery and duplicate-free ClickHouse storage, EWMA z-score and least-squares detectors, incidents with a transactional outbox and Telegram alerts. Load-tested, with the numbers in the README.
+  Мониторинг, который прогнозирует исчерпание ресурсов до сбоя: «диск заполнится через 3 ч 20 мин». Сбор метрик собственным парсером формата Prometheus, Redpanda с доставкой at-least-once и хранение в ClickHouse без дублей, детекторы на EWMA z-score и методе наименьших квадратов, инциденты через transactional outbox и оповещения в Telegram. Проведено нагрузочное тестирование, цифры — в README.
 
-  [Docs](https://github.com/te1pe/foresight#readme) / [Документация](https://github.com/te1pe/foresight/blob/main/README.ru.md)
+  [Документация](https://github.com/te1pe/foresight#readme)
 
 ---
 
 - ## [nsu-rag-llm](https://github.com/te1pe/nsu-rag-llm)
-  Tags: *#Python #RAG #LLM #Qdrant*
+  Теги: *#Python #RAG #LLM #Qdrant*
 
-  RAG question answering over NSU FIT course materials that cites the page behind every claim. Parsing and OCR of nearly 60k pages, hybrid retrieval (dense + BM25, RRF, cross-encoder rerank), an agent with routing and query rewriting, an LLM judge calibrated against manual labels. Runs locally on Ollama; 32 decision records.
+  Вопросно-ответная система на RAG по учебным материалам ФИТ НГУ, которая подкрепляет каждое утверждение ссылкой на страницу. Парсинг и OCR почти 60 тыс. страниц, гибридный поиск (dense + BM25, RRF, реранк cross-encoder'ом), агент с маршрутизацией и переформулировкой запроса, LLM-судья, откалиброванный по ручной разметке. Работает локально на Ollama; 32 записи об архитектурных решениях.
 
-  [Docs](https://github.com/te1pe/nsu-rag-llm#readme) / [Документация](https://github.com/te1pe/nsu-rag-llm#readme)
+  [Документация](https://github.com/te1pe/nsu-rag-llm#readme)
 
 ---
 
 - ## [Traty](https://github.com/te1pe/traty)
-  Tags: *#Go #SQLite #self-hosted*
+  Теги: *#Go #SQLite #self-hosted*
 
-  Personal expense tracker: server-rendered HTML on Go and SQLite, no JavaScript framework and no external database. Money is stored as integer minor units, weeks start on Monday, reports export to CSV. Russian and English UI, light / dark / system themes, installable on a phone from the home screen.
+  Личный учёт расходов: HTML рендерится на сервере на Go и SQLite, без JavaScript-фреймворка и внешней базы данных. Деньги хранятся целыми числами в минимальных единицах, неделя начинается с понедельника, отчёты выгружаются в CSV. Интерфейс на русском и английском, светлая / тёмная / системная тема, устанавливается на телефон с экрана «Домой».
 
-  [Docs](https://github.com/te1pe/traty#readme) / [Документация](https://github.com/te1pe/traty#readme)
+  [Документация](https://github.com/te1pe/traty#readme)
 
 ---
 
 - ## [Obsidian Telegram Assistant](https://github.com/te1pe/obsidian-telegram-assistant)
-  Tags: *#Python #C #automation #macOS*
+  Теги: *#Python #C #автоматизация #macOS*
 
-  A Telegram bot that turns a message into an Obsidian note in a second, and a command into a macOS Calendar event or a Reminder. Standard-library Python, AppleScript and launchd, plus a small C launcher that carries the macOS disk permissions instead of handing them to the interpreter.
+  Telegram-бот, который за секунду превращает сообщение в заметку Obsidian, а команду — в событие Календаря macOS или напоминание. Python на стандартной библиотеке, AppleScript и launchd, плюс небольшой лаунчер на C, который держит разрешения macOS на доступ к диску вместо интерпретатора.
 
-  [Docs](https://github.com/te1pe/obsidian-telegram-assistant#readme) / [Документация](https://github.com/te1pe/obsidian-telegram-assistant#readme)
+  [Документация](https://github.com/te1pe/obsidian-telegram-assistant#readme)
 
 ---
 
 - ## [Wishlist](https://github.com/te1pe/wishlist-ios)
-  Tags: *#Swift #SwiftUI #iOS*
+  Теги: *#Swift #SwiftUI #iOS*
 
-  Local-first iOS wishlist app: items with photo galleries, prices and a bought flag, stored on device as JSON plus image files. SwiftUI with a cached image store, no accounts, no network and no third-party dependencies.
+  iOS-приложение со списком желаний, данные только на устройстве: вещи с галереей фото, ценой и отметкой «куплено» хранятся локально как JSON плюс файлы изображений. SwiftUI с кэширующим хранилищем изображений, без аккаунтов, без сети и без сторонних зависимостей.
 
-  [Docs](https://github.com/te1pe/wishlist-ios#readme) / [Документация](https://github.com/te1pe/wishlist-ios#readme)
+  [Документация](https://github.com/te1pe/wishlist-ios#readme)
 
 ---
 
 - ## [llm-eval-ru](https://github.com/te1pe/llm-eval-ru)
-  Tags: *#Python #NLP #evaluation*
+  Теги: *#Python #NLP #оценка*
 
-  Blind pairwise evaluation of two Russian-language LLMs, reproducing the human stage of RLHF: scripts for blinding, schema validation, sandboxed execution of code taken from the answers, and report generation. Python standard library only.
+  Слепая попарная оценка двух русскоязычных LLM, воспроизводящая человеческий этап RLHF: скрипты для ослепления, проверки схемы, изолированного запуска кода из ответов и генерации отчёта. Только стандартная библиотека Python.
 
-  [Docs](https://github.com/te1pe/llm-eval-ru#readme) / [Документация](https://github.com/te1pe/llm-eval-ru#readme)
+  [Документация](https://github.com/te1pe/llm-eval-ru#readme)
 
 ---
 
 - ## [University Labs](https://github.com/te1pe/university-labs)
-  Tags: *#C #C++ #Java #coursework*
+  Теги: *#C #C++ #Java #учёба*
 
-  Monorepo with NSU FIT coursework: C programming, OOP in C++ and Java, computer architecture, operating systems, parallel programming, networks, databases, OOAD and translation methods.
+  Монорепозиторий с учебными работами ФИТ НГУ: программирование на C, ООП на C++ и Java, архитектура ЭВМ, операционные системы, параллельное программирование, сети, базы данных, ООАД и методы трансляции.
 
-  [Docs](https://github.com/te1pe/university-labs#readme) / [Документация](https://github.com/te1pe/university-labs#readme)
+  [Документация](https://github.com/te1pe/university-labs#readme)
 
 ---
 
 - ## [University Notes](https://github.com/te1pe/university-notes)
-  Tags: *#SystemVerilog #Python #notes*
+  Теги: *#SystemVerilog #Python #конспекты*
 
-  Lecture notes and lab work from the first years at NSU FIT: discrete mathematics, probability theory and statistics, digital circuitry in SystemVerilog, and informatics.
+  Конспекты лекций и лабораторные с первых курсов ФИТ НГУ: дискретная математика, теория вероятностей и математическая статистика, цифровая схемотехника на SystemVerilog и информатика.
 
-  [Docs](https://github.com/te1pe/university-notes#readme) / [Документация](https://github.com/te1pe/university-notes#readme)
+  [Документация](https://github.com/te1pe/university-notes#readme)
 
 ---
